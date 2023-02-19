@@ -7,7 +7,7 @@
 使用方法：  
 1.git clone https://github.com/PrettyABC/urlscan.git  
 2.cd urlscan  
-3.pip install r requirements.txt  
+3.pip install -r requirements.txt  
 4.修改代码中以下字段：  
 proxies = {  
   "http": "http://127.0.0.1:7890",  
