@@ -5,7 +5,7 @@
 自用谷歌搜索或必应搜索引擎爬取url工具  
 请使用python3以上环境，建议python3.8  
 使用方法：  
-1.git clone https://github.com/PrettyABC/urlscan.git  
+1.git clone https://github.com/lyangdn/urlscan.git  
 2.cd urlscan  
 3.pip install -r requirements.txt  
 4.修改代码中以下字段：  
